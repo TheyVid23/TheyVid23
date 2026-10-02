@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my knowledge<br>👯 I’m looking to collaborate on programming real projects<br>🤝 I’m looking for help with programming languages<br>🌱 I’m currently learning python<br>💬 Ask me about python but I am not yet knowledgeable<br>⚡ Fun fact: I hate cramming
+🔭 I’m currently working on improving my programming skills<br>👯 I’m looking to collaborate on programming real projects<br>🤝 I’m looking for help with programming languages<br>🌱 I’m currently learning python<br>💬 Ask me about python but I am not yet knowledgeable<br>⚡ Fun fact: I hate cramming
 
 
 # 💻 Tech Stack:
